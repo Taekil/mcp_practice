@@ -1,0 +1,8 @@
+[
+  {
+    "name": "get_weather",
+    "server": "http://localhost:5001",
+    "route": "/weather",
+    "manifest": "mcp_tools/get_weather/manifest.json"
+  }
+]
